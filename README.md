@@ -1,5 +1,5 @@
 # PokerHandEvaluator
-This program takes in a string of characters: value of card ("23456789TJQKA") and rank ("cdhs") and evaulates the poker hand.
+This program takes in a string of characters: value of card ("23456789TJQKA") and rank ("cdhs") and evaluates the poker hand.
 ex. Jh would be jack of hearts
 
 # Example
